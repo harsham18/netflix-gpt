@@ -1,7 +1,7 @@
-import "./App.css";
+import Body from "./components/Body";
 
 function App() {
-  return <div className="text-red-700 font-bold text-3xl">Danger Zone</div>;
+  return <Body />;
 }
 
 export default App;
