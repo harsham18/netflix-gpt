@@ -25,3 +25,8 @@ Fetch trailer for a movie
 Update store with Trailer video
 Embedded the youtube video and make autoplay
 Fixing the Video Container on top of Video Title
+Built Secondary container
+Built MovieList
+Built MovieCard
+Used TMDB API to get ImagesCDN URL
+customHooks usePopular,useUpcomingMovies,useTrending,useTopRated with API's(updated store)

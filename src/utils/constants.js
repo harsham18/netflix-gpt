@@ -20,3 +20,14 @@ export const options = {
 };
 export const NowPlayingURL =
   "https://api.themoviedb.org/3/movie/now_playing?language=en-US&page=1";
+export const PopularMoviesURL =
+  "https://api.themoviedb.org/3/movie/popular?language=en-US&page=1";
+
+export const TopRatedMoviesURL =
+  "https://api.themoviedb.org/3/movie/top_rated?language=en-US&page=1";
+export const UpcomingMoviesURL =
+  "https://api.themoviedb.org/3/movie/upcoming?language=en-US&page=1";
+export const TrendingMoviesURL =
+  "https://api.themoviedb.org/3/trending/movie/day?language=en-US";
+
+export const POSTER_CDN_URL = "https://image.tmdb.org/t/p/w500/";
